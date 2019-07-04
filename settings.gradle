@@ -1,1 +1,1 @@
-include ':mirrorerlibrary'
+include ':mirrorerlibrary', ':app'

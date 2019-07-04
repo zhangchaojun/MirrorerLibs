@@ -24,7 +24,7 @@ public class FontUtils {
     private Typeface w9;
 
 
-    public FontUtils() {
+    private FontUtils() {
 //        this.w3 = Typeface.createFromAsset(JoyoungBaseApplication.getInstance().getAssets(), "fonts/W3");
 //        this.w5 = Typeface.createFromAsset(JoyoungBaseApplication.getInstance().getAssets(), "fonts/W5");
 //        this.w7 = Typeface.createFromAsset(JoyoungBaseApplication.getInstance().getAssets(), "fonts/W7");
